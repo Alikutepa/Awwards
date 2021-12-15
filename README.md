@@ -1,5 +1,5 @@
 ## Awards
-The application allows a user to post a project he/she has created and get it reviewed by his/her peers, 27/11/2020.
+The application allows a user to post a project he/she has created and get it reviewed by his/her peers, 12/12/2021.
 By Juliana Alikutepa
 
 
